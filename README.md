@@ -1,9 +1,18 @@
-# west2-work4
+# west2-work4 寒假合作轮
 
 
 
 ## 接口文档
 https://apifox.com/apidoc/shared-6fb68039-c6a7-49d2-a875-9bfc9b000440
+
+
+
+## 技术栈
+
+- Mysql数据库
+- Mybatis
+- SpringBoot
+- Docker
 
 
 
@@ -91,6 +100,8 @@ https://apifox.com/apidoc/shared-6fb68039-c6a7-49d2-a875-9bfc9b000440
 - 文章按时间排行
 - 评论文章
 - 评论评论
+
+
 
 
 
